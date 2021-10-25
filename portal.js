@@ -30,7 +30,7 @@ function portalNav() {
     console.log(username, password);
 
 if (username == "S02863448" && password == pass1){
-    window.location.href = "./portal.html"
+    window.location.href = "./portal-m.html"
 }
 // else if (username == "6754908" && password == pass2){
 //     window.location.href = "./portal-B.html"
